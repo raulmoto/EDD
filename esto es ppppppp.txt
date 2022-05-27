@@ -1,0 +1,7 @@
+git clone url
+git status (debe ser dentro de la carpeta)
+git add
+git add . ( anadir todos los modificados)
+git diff ( para ver la diferencia entre antes de hacer modificacion y despues)
+git commit -m "mensaje"
+git push (subir a repositorio)
